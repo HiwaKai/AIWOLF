@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="AIWolf-ver0.6.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AIWolf-ver0.6.3/jsonic-1.3.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AIWolf-ver0.6.3/aiwolf-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AIWolf-ver0.6.3/aiwolf-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AIWolf-ver0.6.3/aiwolf-viewer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AIWolf-ver0.6.3/testAiWolf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AIWolf-ver0.6.3/aiwolf-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

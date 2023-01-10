@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testAiWolf/lib/aiwolf-docs-ver0.6.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testAiWolf/lib/aiwolf-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testAiWolf/lib/aiwolf-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
